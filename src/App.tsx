@@ -1,16 +1,8 @@
-import CardFilter from "./components/CardFilter";
-import Header from "./components/Header";
+import ListingBody from "./components/ListingBody";
 
 function App() {
   return (
-    <>
-      <Header />
-      <main className="mainMgT20">
-        <section className="dsf-container">
-          <CardFilter />
-        </section>
-      </main>
-    </>
+    <ListingBody />
   );
 }
 
