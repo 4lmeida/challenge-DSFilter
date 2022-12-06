@@ -39,3 +39,7 @@ a, a:hover {
   max-width: 960px;
   margin: 0 auto;
 }
+
+.mainMgT20 {
+  margin: 20px 0;
+}
